@@ -27,6 +27,15 @@ Podemos utilizar as ``()`` para mudar a ordem de precedencia.
 
 3. Para converter uma string para ``int`` ou ``float``, podemos utilizar os metodos ``int()`` ou ``float()``
 
+# Aula 05
+## Estruturas de repetição:
+1. ``for``
+=> utilizado quando de antemão, se sabe quantas repetições são necessárias. Normalmente é utilizado para ``iterar`` sobre elementos de uma sequência 
+1.1 - range() => Gera uma sequencia de números (1º sendo inclusivo e ultimo é exclusivo)
+
+2. ``while``
+=> utiizado quando não se sabe quantas vezes a repetição ocorreá ao certo. Será executado enquanto a condição for verdadeira.
+
 ## Atalhos no Vscode
 ``CTRL + B`` => Oculta ou exibe o explorador.
 ``CTRL + ;`` => Comenta uma linha.
