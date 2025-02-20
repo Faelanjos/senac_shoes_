@@ -36,6 +36,15 @@ Podemos utilizar as ``()`` para mudar a ordem de precedencia.
 2. ``while``
 => utiizado quando não se sabe quantas vezes a repetição ocorreá ao certo. Será executado enquanto a condição for verdadeira.
 
+# Aula 06
+## Comandos de Desvio
+1. continue -> Siginifica continuar, basicamente se uma condição for favoravel, ela será desconsiderada.
+
+2. break -> Significa quebrar, quando utilizado irá finalizar o loop mais próximo.
+
+## Funções
+=> Bloco de código que é reutilizável, serve para deixa o c´doigo mais organizado e eficiente. ``Executam uma tarefa especifica.``
+
 ## Atalhos no Vscode
 ``CTRL + B`` => Oculta ou exibe o explorador.
 ``CTRL + ;`` => Comenta uma linha.
