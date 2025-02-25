@@ -45,6 +45,28 @@ Podemos utilizar as ``()`` para mudar a ordem de precedencia.
 ## Funções
 => Bloco de código que é reutilizável, serve para deixa o c´doigo mais organizado e eficiente. ``Executam uma tarefa especifica.``
 
+# Aula 07
+## Principios da programação orientada a objetos (P.O.O):
+1. ``Encapsulamento``
+2. ``Herança`` => é um conceito de POO que permite que uma classe herde atributos e métodos de outras classes
+3. ``Polimorfismo``
+4. ``Abstração``
+
+## Palavras Reservadas em POO
+1. ``class`` => é uma palavra chave em python onde você cria um 'molde'. Toda classe pode classe pode ter 'atributos' e 'metodos', sendo que os atributos precisam estar dentro de um metodo chamado construtor(__init__).
+2. ``object`` => é o nome dado a cada cópia da classe. Também conhecido como instância.
+3. ``__init__`` => é um inicializador (construtor), onde você informa que toda cópia precisa passar aqueles valores no momento da criação. É um método especial.
+4. ``this / self`` => referencia o atributo atual da classe(valor). Em outras linguagens se usa o o this, porém em python se usa o self.
+
+## Termos utilizados em POO
+1. ``metodo`` => é uma função que está dentro de uma classe. É uma ação.
+2. ``atributos`` => são as caracteristicas de uma classe.
+
+## Herança
+Teremos dois tipos de classes:
+- superclass => é a classe pai, que oferece a herança.
+- subclass => é a classe filha, que herda a herança.
+
 ## Atalhos no Vscode
 ``CTRL + B`` => Oculta ou exibe o explorador.
 ``CTRL + ;`` => Comenta uma linha.
